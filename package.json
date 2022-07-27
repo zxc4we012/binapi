@@ -1,0 +1,27 @@
+{
+  "name": "binsapi",
+  "version": "1.0.0",
+  "description": "API to get BIN Information",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bin",
+    "Bin Checker",
+    "reboot13",
+    "reboot13-git"
+  ],
+  "author": "reboot13_dev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jsdom": "^17.0.0",
+    "node-fetch": "^2.6.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bins-ws-api"
+  },
+  "devDependencies": {}
+}
